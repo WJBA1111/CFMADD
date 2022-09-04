@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,top=false": { "model": "cfmadd:modern_sliding_door_red_stone_support_bottom", "y": 0   },
+        "facing=east,top=false":  { "model": "cfmadd:modern_sliding_door_red_stone_support_bottom", "y": 90  },
+        "facing=south,top=false": { "model": "cfmadd:modern_sliding_door_red_stone_support_bottom", "y": 180 },
+        "facing=west,top=false":  { "model": "cfmadd:modern_sliding_door_red_stone_support_bottom", "y": 270 },
+        "facing=north,top=true":  { "model": "cfmadd:modern_sliding_door_red_stone_support_top",    "y": 0   },
+        "facing=east,top=true":   { "model": "cfmadd:modern_sliding_door_red_stone_support_top",    "y": 90  },
+        "facing=south,top=true":  { "model": "cfmadd:modern_sliding_door_red_stone_support_top",    "y": 180 },
+        "facing=west,top=true":   { "model": "cfmadd:modern_sliding_door_red_stone_support_top",    "y": 270 }
+    }
+}

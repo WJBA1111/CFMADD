@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "cfmadd:modern_sliding_door_red_stone_support",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cfm"
+    }
+  ],
+  "pattern": [
+    "QQQ",
+    "QAQ",
+    "QQQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:redstone"
+    },
+    "A": {
+      "item": "cfm:modern_sliding_door"
+    }
+  }
+}
